@@ -1,8 +1,8 @@
-# 🚀 Robert Antwi — Frontend Developer | UI Engineer
+# 🚀 Robert Antwi — Frontend Developer
 
 Hi, I’m Robert — a frontend developer crafting sleek, high-performance web experiences with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. I specialize in turning ambitious ideas into polished digital products.
 
-[🌐 Portfolio](https://robertantwi-portfolio.vercel.app) • [📫 Email Me](mailto:robertantwigh@gmail.com) • [🐦 Twitter](https://twitter.com/) • [💼 LinkedIn](https://linkedin.com/)
+[🌐 Portfolio](https://robertantwi-portfolio.vercel.app) • [📫 Email Me](mailto:roberttantwi@outlook.com) • [🐦 Twitter](https://twitter.com/) • [💼 LinkedIn](https://linkedin.com/)
 
 ---
 
@@ -47,16 +47,5 @@ I'm open to freelance projects, collaborations, or just chatting about frontend 
 
 > **"Great code, great communication, and a pixel-perfect eye for detail. Robert is a top-tier dev."**  
 > — *Client Feedback, 2024*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert-Antwi&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robert-Antwi&theme=tokyonight" width="47%"/>
-</p>
-
----
 
 Made with ❤️ by Robert Antwi
